@@ -2,5 +2,5 @@
 Barebone Behat that can be used as standalone testing platform for single project.
 # behat-123
 ```
-Give the example
+sudo apt-get install php7.2
 ```
