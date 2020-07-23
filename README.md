@@ -4,7 +4,7 @@ Barebone Behat that can be used as standalone testing platform for single projec
 ```
 sudo apt-get install php7.2
 ```
-## Built With
+# Built With
 
 * [123](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [456](https://maven.apache.org/) - Dependency Management
