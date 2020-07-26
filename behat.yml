@@ -1,0 +1,34 @@
+default:
+  formatters:
+    pretty:
+  extensions:
+    emuse\BehatHTMLFormatter\BehatHTMLFormatterExtension:
+      name: html
+      renderer: Twig
+      file_name: index
+    Behat\MinkExtension:
+      files_path: "%paths.base%/files/"
+      browser_name: "chrome"
+      selenium2:
+        browser: "chrome"
+        wd_host: "http://127.0.0.1:9515"
+        capabilities:
+          extra_capabilities:
+            goog:chromeOptions:
+              w3c: false
+              args:
+                - '--no-sandbox'
+                - '--headless'
+                - '--window-size=1920,1080'
+          marionette: true
+          browserName: "chrome"
+          browser: "chrome"
+          version: "*"
+  suites:
+    default:
+      contexts:
+        - Drupal\DrupalExtension\Context\MessageContext:
+        - Drupal\DrupalExtension\Context\DrushContext:
+        - Contexts\FeatureContext:
+imports:
+  - worldvision.yml

@@ -1,0 +1,13 @@
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+vendor
+bin
+logs
+build
+.DS_Store
+.idea
+debug.feature
