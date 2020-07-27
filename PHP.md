@@ -1,5 +1,7 @@
 # PHP Installation
-> In order to Behat to work we need PHP installed alongside with several extentions. The required version of PHP is 7 and above. Preferably 7.3.
+> In order to Behat to work we need PHP installed alongside with several extentions. 
+The required version of PHP is 7 and above. Preferably 7.3.
+
 **The following PHP extensions are needed too**
 
 - bz2
