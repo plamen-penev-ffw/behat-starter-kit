@@ -2,18 +2,18 @@
 > In order to Behat to work we need PHP installed. The required version of PHP is 7 and above. Preferably version 7.2.
 
 # PHP Version and availability
-> Check if you have PHP installed and what version it is. To do that, you need to run this command in the terminal.
+> Check if you have PHP installed and what version it is. To do that, you need to run this command in the terminal:
 ```
 php -v
 ```
-If you see this in the terminal
+If you see this in the terminal:
 ```
 PHP 7.2.24-0ubuntu0.18.04.4 (cli) (built: Apr  8 2020 15:45:57) ( NTS )
 ```
 it means you have PHP version 7.2 installed and there is no need to install PHP. If the version is greater than 7.2 that is OK. You can proceed with checking the extensions for PHP by reading Step 2 of this tutorial.  
-If the version is bellow 7.2 proceed with Step 1 of this tutorial to upgrade PHP to needed version. 
+If the version is bellow 7.2 proceed with Step 1 of this tutorial to upgrade PHP to the needed version. 
 
-In other hand, if you see this in the terminal 
+In other hand, if you see this in the terminal:
 ```
 The program 'php' can be found in the following packages:
 ```
@@ -40,7 +40,7 @@ Wait the process to finish and install PHP by using:
 ```
 sudo apt-get install php7.2 php7.2-cli php7.2-common
 ```
-Perform this step ONLY if you are upgrading your PHP version. Replace the number of the version after the "php" to the version of your old PHP. 
+Perform this step ONLY if you are upgrading your PHP version. Replace the number of the version after the "php" to the version of your old PHP: 
 ```
 a2dismod php7.0
 ```
@@ -58,14 +58,37 @@ a2enmod php7.2
 - bcmath
 - json
 - zip
-- fileinfo
 
-To check what extension you currently have type the folowing command in the terminal:
+To check what extension you currently have, type the folowing command in the terminal:
 ```
 php -m
 ```
-Then you will get a list of extensions and check if the abovementioned extensions is in the list. If not you can install them as folows:
+Then you will get a list of extensions and check if the abovementioned extensions is in the list. If some is missing you can install it as folows:
 - Install bz2
 ```
 sudo apt-get install php7.2-bz2
 ```
+- Install curl
+```
+sudo apt-get install php7.2-curl
+```
+- Install mbstring
+```
+sudo apt-get install php7.2-mbstring
+```
+- Install bcmath
+```
+sudo apt-get install php7.2-bcmath
+```
+- Install json
+```
+sudo apt-get install php7.2-json
+```
+- Install zip
+```
+sudo apt-get install php7.2-zip
+```
+
+
+
+> Once all the steps are performed successfully you can get back to the main <a href="https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/README.md" target="_blank">`README`</a> and follow the other procedures.
