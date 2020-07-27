@@ -14,6 +14,8 @@ The required version of PHP is 7 and above. Preferably 7.3.
 
 To check if we have PHP installed and what version it is, we need to run this command in the terminal.
 
-
+```
+php -v
+```
 
  
