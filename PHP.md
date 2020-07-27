@@ -22,7 +22,7 @@ it means PHP is not installed and you need to proceed with **Step 1** of this tu
 # Step 1 - Installing or upgrading PHP
 > The process of installing and upgrading the PHP is pretty the same. The difference is that when the installation of the new version is completed the old PHP installation needs to be disabled and the new to be enabled, this will be described in the installation process. 
 
-First you need to update your current instalation of UBUNTU. To do that open an terminal and type the following commands:
+First you need to update your current instalation. To do that open an terminal and type the following commands:
 ```
 sudo apt-get update
 ```
