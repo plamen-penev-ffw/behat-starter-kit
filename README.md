@@ -7,9 +7,13 @@ How to setup WSL and install Ubuntu Linux - [click here](https://github.com/plam
 # Check list of procedures that need to be completed in order to run Behat:
 
 * PHP Checkup & Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/PHP.md). (Mac users can skip this, MacOS comes with preinstalled PHP that is compatible with the Behat requriements.)
-* Repository setup -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/GIT.md).  
-
-
-# How to setup Behat and use it to the full extent.
-* Composer Checkup & Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
+* GIT setup -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/GIT.md). 
+* Repository setup -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/REPOSITORY.md).  
 * ChromeDriver Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/CHROMEDRIVER.md).
+
+# How to setup Behat.
+* Install via Composer -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
+* Config Behat for your project -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/CONFIG.md).
+* Add test files -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
+* Add additional steps -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
+* Create feature with steps -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
