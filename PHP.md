@@ -60,6 +60,7 @@ a2enmod php7.2
 - bcmath
 - json
 - zip
+- dom
 
 To check what extension you currently have, type the folowing command in the terminal:
 ```
@@ -89,5 +90,9 @@ sudo apt-get install php7.2-json
 - Install zip
 ```
 sudo apt-get install php7.2-zip
+```
+- Install dom
+```
+sudo apt-get install php7.2-dom
 ```
 > Once all the steps are performed successfully you can get back to the main <a href="https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/README.md" target="_blank">`README`</a> and follow the other procedures.
