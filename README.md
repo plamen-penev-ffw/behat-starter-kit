@@ -12,3 +12,4 @@ How to setup WSL and install Ubuntu Linux - [click here](https://github.com/plam
 
 # How to setup Behat and use it to the full extent.
 * Composer Checkup & Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
+* ChromeDriver Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/CHROMEDRIVER.md).
