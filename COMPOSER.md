@@ -16,7 +16,7 @@ Wait for the process to finish, it may take some time.
 ```
 bin/behat -V
 ```
-If the installation is successful you should se the folowing text:
+If the installation is successful you should see the folowing text:
 ```
 behat 3.5.0
 ```
