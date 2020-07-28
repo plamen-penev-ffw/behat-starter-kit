@@ -37,7 +37,7 @@ If everything is OK you should see this:
 ```
 Hi <your_github_username_here>! You've successfully authenticated, but GitHub does not provide shell access.
 ```
-# Setting up your username and email for github
+# Setting up your name and email for github
 * Setting up your name. Enter the folowing command by replacing **FIRST_NAME LAST_NAME** with your names.
 ```
 git config --global user.name "FIRST_NAME LAST_NAME"
