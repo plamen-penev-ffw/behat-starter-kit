@@ -1,11 +1,14 @@
 # behat-starter-kit
-Barebone Behat that can be used as standalone testing platform for single project.
-# behat-123
-```
-sudo apt-get install php7.2
-```
-# Built With
+This repo contains barebone Behat installation that can be used as standalone testing platform for the sole purpose of a single project. Below you can find information how to setup and configure all the needed things in order to get a separate Behat instance up and running.
 
-* Check PHP installation [here](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [456](https://maven.apache.org/) - Dependency Management
-* [789](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+# Windows users read this first
+How to setup WSL and install Ubuntu Linux - [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/WSL.md)
+
+# Check list of procedures that need to be completed in order to run Behat:
+
+* PHP Checkup & Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/PHP.md). (Mac users can skip this, MacOS comes with preinstalled PHP that is compatible with the Behat requriements.)
+* Repository setup -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/GIT.md).  
+
+
+# How to setup Behat and use it to the full extent.
+* Composer Checkup & Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
