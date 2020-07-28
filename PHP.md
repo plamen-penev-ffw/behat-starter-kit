@@ -95,4 +95,3 @@ sudo apt-get install php7.2-zip
 ```
 sudo apt-get install php7.2-dom
 ```
-> Once all the steps are performed successfully you can get back to the main <a href="https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/README.md" target="_blank">`README`</a> and follow the other procedures.
