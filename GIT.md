@@ -2,7 +2,7 @@
 > Adding a SSH key to your github account will allow you to clone, pull and push to your project repo.
 > If you already added your ssh key to your account you can skip this and proceed with setting up your repository by reading [**this**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/REPOSITORY.md) guide.
 
-# Creating the SSH key
+# Create the SSH key
 > **NOTE:** Windows users need to login to WSL in order to execute terminal commands.
 * Open a terminal and enter the folowing commands:
 ```
@@ -36,4 +36,13 @@ ssh git@github.com
 If everything is OK you should see this:
 ```
 Hi <your_github_username_here>! You've successfully authenticated, but GitHub does not provide shell access.
+```
+# Setting up your username and email for github
+* Setting up your name. Enter the folowing command by replacing **FIRST_NAME LAST_NAME** with your names.
+```
+git config --global user.name "FIRST_NAME LAST_NAME"
+```
+* Setting up your email. Enter the folowing command by replacing **MY_NAME@example.com** with your work email.
+```
+git config --global user.email "MY_NAME@example.com"
 ```
