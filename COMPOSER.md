@@ -6,7 +6,8 @@
 ```
 ./composer-installer.sh
 ```
-* The command above will install composer for this folder to install Behat run this command:
+The command above will install composer for this folder.
+* To install Behat run this command:
 ```
 php composer.phar install
 ```
@@ -18,4 +19,8 @@ bin/behat -V
 If the installation is successful you should se the folowing text:
 ```
 behat 3.5.0
+```
+**NOTE:** If you need to make some changes to the composer.json file, when finished, you must run composer update by entering this command in the terminal:
+```
+php composer.phar update
 ```
