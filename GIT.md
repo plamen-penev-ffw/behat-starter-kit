@@ -3,6 +3,7 @@
 > If you already added your ssh key to your account you can skip this and proceed with setting up your repository by reading [**this**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/REPOSITORY.md) guide.
 
 # Creating the SSH key
+**NOTE:** Windows users need to login to WSL in order to execute terminal commands.
 * Open a terminal and enter the folowing commands:
 ```
 cd ~/.ssh
