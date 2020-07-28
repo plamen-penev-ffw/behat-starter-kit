@@ -3,6 +3,7 @@
 
 # PHP Version and availability
 > Check if you have PHP installation and if there is one - what version it is. To do that, you need to run this command in the terminal:
+
 > **NOTE:** Windows users need to login to their WSL to execute terminal commands.
 ```
 php -v
