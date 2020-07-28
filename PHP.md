@@ -1,7 +1,7 @@
 # PHP Checkup & Installation
 > In order to Behat to work we need PHP installed. The required version of PHP is 7 and above. Preferably version 7.2
 
-**NOTE:** Windows users need to login to WSL in order to execute terminal commands.
+> **NOTE:** Windows users need to login to WSL in order to execute terminal commands.
 # PHP Version and availability
 > Check if you have PHP installation and if there is one - what version it is. To do that, you need to run this command in the terminal:
 **NOTE:** Windows users need to login to their WSL to execute terminal commands.
