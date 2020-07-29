@@ -10,7 +10,7 @@
 > NOTE: windows asaasdsad WSL
 
 * While you are on the main page of your repository, there should be a green button labeled **Code**. Click on it.
-* Then a popup titled **Clone with SSH** will be openeded. It contains link that is used for cloning the repo. Copy it. It will be used for cloning the repository.
+* Then a popup titled **Clone with SSH** will be opened. It contains link that is used for cloning the repo. Copy it.
 * Open a terminal on your computer and go to the folder in which you want to clone the repository.
 * Then type the folowing command:
 ```
