@@ -24,14 +24,11 @@ The program 'php' can be found in the following packages:
 it means PHP is not installed and you need to proceed with **Step 1** of this tutorial.
 
 # Step 1 - Installing or upgrading PHP
-> The process of installing and upgrading the PHP is pretty the same. The difference is that when the installation of the new version is completed the old PHP installation needs to be disabled and the new to be enabled, this will be described in the installation process. 
+> The process of installing and upgrading the PHP is pretty the same. 
 
 First you need to update your Linux instalation. To do that open an terminal and type the following commands:
 ```
 sudo apt-get update
-```
-```
-sudo apt-get upgrade
 ```
 Wait the process to finish and add the PHP repository by using:
 ```
@@ -43,14 +40,6 @@ sudo apt-get update
 Wait the process to finish and install PHP by using:
 ```
 sudo apt-get install php7.2 php7.2-cli php7.2-common
-```
-Perform this step ONLY if you are upgrading your PHP version. Replace the number of the version after the "php" to the version of your old PHP: 
-```
-a2dismod php7.0
-```
-Enable the new PHP version.
-```
-a2enmod php7.2
 ```
 
 # Step 2 - Check and install needed PHP extensions.
@@ -69,6 +58,7 @@ To check what extension you currently have, type the folowing command in the ter
 php -m
 ```
 Then you will get a list of extensions and check if the abovementioned extensions is in the list. If some is missing you can install it as folows:
+> **NOTE:** Please make sure that the correct version is specified. The examples below are for PHP 7.2.
 ## Windows users on WSL
 - Install bz2
 ```
