@@ -1,7 +1,7 @@
 # PHP Checkup & Installation
 > In order to Behat to work we need PHP installed. The required version of PHP is 7 and above. Preferably version 7.2
 
-> **NOTE** Mac users can skip Step 1 because MacOS comes with preinstalled PHP that is compatible with the Behat requriements. You only need to check and install php extensions by reading **Step 2**.
+> **NOTE** Mac users can skip **Step 1** because MacOS comes with preinstalled PHP that is compatible with the Behat requriements. You only need to check and install php extensions by reading **Step 2**.
 
 # PHP Version and availability
 > Check if you have PHP installation and if there is one - what version it is. To do that, you need to run this command in the terminal:
