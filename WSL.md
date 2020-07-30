@@ -1,5 +1,5 @@
 # WSL setup.
-> In order to get WSL you need to update your Windows to the lates version.
+> In order to get WSL you need to update your Windows to the latest version.
 
 # Update Windows to the latest version.
 * [**Click here**](https://www.microsoft.com/en-us/software-download/windows10/) to go to the Windows update page.
