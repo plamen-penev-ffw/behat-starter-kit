@@ -6,7 +6,7 @@
 # PHP Version and availability
 > Check if you have PHP installation and if there is one - what version it is. To do that, you need to run this command in the terminal:
 
-> **NOTE:** Windows users need to login to their WSL to execute terminal commands.
+> **NOTE:** Windows users need to login to WSL in order to execute terminal commands. Click [**here**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/WSL.md#opening-linux-terminal) to see how.
 ```
 php -v
 ```
