@@ -1,5 +1,5 @@
 # Install Behat with composer
-> Below you will find steps on how to install composer and use it to setup Behat. Be sure that you cloned your repo in order to proceed with this step, if you didn't set it up, read [**this**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/REPOSITORY.md) guide.
+> Below you will find steps on how to install composer and use it to setup Behat. Be sure that you cloned your repository in order to proceed with this step, if you didn't set it up, read [**this**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/REPOSITORY.md) guide.
 
 # Check if you have composer.
 > To check if you have composer, open terminal and execute:
