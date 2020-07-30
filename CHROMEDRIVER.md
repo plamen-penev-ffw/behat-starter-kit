@@ -5,11 +5,11 @@
 * Go to the ChromeDriver download page by clicking [**here**](https://chromedriver.chromium.org/downloads). 
 * Search in the list for proper version that matches your Chrome browser version.
 * Download the version according to your operating system:
--- Windows users:
+** Windows users:
 ```
 chromedriver_win32.zip
 ```
-- Mac users
+** Mac users
 ```
 chromedriver_mac64.zip
 ```
