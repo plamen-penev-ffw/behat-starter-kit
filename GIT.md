@@ -9,7 +9,7 @@
 cd ~/.ssh
 ```
 ```
-ss-keygen
+ssh-keygen
 ```
 Folow the onscreen instructions. 
 > **NOTE:** Do not add passphrase to the key, just press enter twice when asked for passphrase. 
