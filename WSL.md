@@ -25,7 +25,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 # Opening Linux Terminal
 * In the search bar(next to the start button) of Windows type **Command prompt**. Open it.
-* Type the following:
+* Execute the folowing command:
 ```
 wsl
 ```
