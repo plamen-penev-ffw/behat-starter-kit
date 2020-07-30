@@ -11,6 +11,7 @@ If you have composer installed you should get similiar to this:
 Composer version @package_branch_alias_version@ (1.0.0-beta2) 2016-03-27 16:00:34
 ```
 In this case you can skip the composer installation step.
+
 ---
 If you do not have composer you should get this:
 ```
