@@ -98,3 +98,32 @@ sudo apt-get install php7.2-zip
 ```
 sudo apt-get install php7.2-dom
 ```
+## Mac users
+- Install bz2
+```
+pecl install php7.2-bz2
+```
+- Install curl
+```
+pecl install php7.2-curl
+```
+- Install mbstring
+```
+pecl install php7.2-mbstring
+```
+- Install bcmath
+```
+pecl install php7.2-bcmath
+```
+- Install json
+```
+pecl install php7.2-json
+```
+- Install zip
+```
+pecl install php7.2-zip
+```
+- Install dom
+```
+pecl install php7.2-dom
+```
