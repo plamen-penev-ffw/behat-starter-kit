@@ -6,7 +6,7 @@
 ```
 composer -V
 ```
-If you have composer installed you should get similiar to this:
+If you have composer installed you should get text similiar to this:
 ```
 Composer version @package_branch_alias_version@ (1.0.0-beta2) 2016-03-27 16:00:34
 ```
