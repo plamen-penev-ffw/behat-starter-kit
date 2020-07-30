@@ -7,7 +7,7 @@
 * On the next page in the **Repository name** field, enter the name of your project and adjust the other settings according to your needs and then click on the button labeled **Create repository from template**. Wait a few seconds the process to finish, then you will be redirected to your newly created repository.
 
 # How to clone your new project repo into your computer:
-> NOTE: windows asaasdsad WSL
+> **NOTE:** Windows users need to login to WSL in order to execute terminal commands. Click [**here**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/WSL.md#opening-linux-terminal) to see how.
 
 * While you are on the main page of your repository, there should be a green button labeled **Code**. Click on it.
 * Then a popup titled **Clone with SSH** will be opened. It contains link that is used for cloning the repo. Copy it.
