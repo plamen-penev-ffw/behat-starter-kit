@@ -6,7 +6,7 @@ How to setup WSL and install Ubuntu Linux - [click here](https://github.com/plam
 
 # Check list of procedures that need to be completed in order to run Behat:
 
-* PHP Checkup & Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/PHP.md). (Mac users can skip this, MacOS comes with preinstalled PHP that is compatible with the Behat requriements.)
+* PHP Checkup & Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/PHP.md).
 * GIT setup -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/GIT.md). 
 * Repository setup -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/REPOSITORY.md).  
 * ChromeDriver Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/CHROMEDRIVER.md).
