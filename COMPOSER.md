@@ -35,7 +35,7 @@ brew install composer
 The command above will install composer globally.
 
 # Install Behat.
-* To install Behat run this command:
+* To install Behat, open the terminal, go to the folder of your newly cloned project and execute this command:
 ```
 composer install
 ```
