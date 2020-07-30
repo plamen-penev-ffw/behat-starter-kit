@@ -34,4 +34,4 @@ or
 bash
 ```
 Now you are in the Linux terminal.
-> Please remember the procedure for opening a terminal windows in WSL because you will be using it a lot! 😉
+> Please remember the procedure for opening a terminal in windows WSL because you will be using it a lot! 😉
