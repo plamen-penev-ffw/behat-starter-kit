@@ -4,12 +4,23 @@
 
 # Create the SSH key
 > **NOTE:** Windows users need to login to WSL in order to execute terminal commands. Click [**here**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/WSL.md#opening-linux-terminal) to see how.
-* Open a terminal and enter the folowing command:
+* Open a terminal and enter the folowing commands:
+```
+cd ~/.ssh
+```
+If there is a error such as: "No such file or directory" proceed with the command below:
 ```
 ssh-keygen
 ```
 Folow the onscreen instructions. 
 > **NOTE:** Do not add passphrase to the key, just press enter twice when asked for passphrase. 
+After the process is finished add your ssh identity by executing this commands:
+```
+eval $(ssh-agent)
+```
+```
+ssh-add
+```
 * Copy the SSH key
 ```
 cat ~/.ssh/id_rsa.pub
