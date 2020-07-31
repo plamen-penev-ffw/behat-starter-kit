@@ -35,7 +35,8 @@ sudo curl -s https://getcomposer.org/installer | php
 ```
 sudo mv composer.phar /usr/local/bin/composer
 ```
-> **NOTE:** You need to logout and login to your WSL after this procedure by executing "logout" and logging back to the WSL.
+> **NOTE:** You need to logout and login to your WSL after this procedure by executing "logout" and logging back to the WSL. How to log back -> read [**here**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/WSL.md#opening-linux-terminal).
+
 Mac users
 * Open the terminal and execute this command:
 ```
