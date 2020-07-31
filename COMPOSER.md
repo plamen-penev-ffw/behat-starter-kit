@@ -10,7 +10,7 @@ If you see this in the terminal:
 ```
 Composer version 1.10.9 2020-07-16 12:57:00
 ```
-It means you have composer version 1.10.9 installed and there is no need to install composer. If the version is greater than 1.10.9 that is OK and you can proceed with **Step 2** of this tutorial. If the version is bellow 1.10.9 proceed with Step 1 of this tutorial to upgrade composer to the needed version.
+It means you have composer version 1.10.9 installed and there is no need to install composer. If the version is greater than 1.10.9 that is OK and you can proceed with **Step 2** of this tutorial. If the version is bellow 1.10.9 proceed with ***Step 1*** of this tutorial to upgrade composer to the needed version.
 
 In other hand, if you see this in the terminal:
 ```
