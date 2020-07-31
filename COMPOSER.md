@@ -6,35 +6,41 @@
 ```
 composer -V
 ```
-If you have composer installed you should get text similiar to this:
+If you see this in the terminal:
 ```
-Composer version @package_branch_alias_version@ (1.0.0-beta2) 2016-03-27 16:00:34
+Composer version 1.10.9 2020-07-16 12:57:00
 ```
-In this case you can skip the composer installation step.
+It means you have composer version 1.10.9 installed and there is no need to install composer. If the version is greater than 1.10.9 that is OK and you can proceed with **Step 2** of this tutorial. If the version is bellow 1.10.9 proceed with Step 1 of this tutorial to upgrade composer to the needed version.
 
----
-If you do not have composer you should get this:
+In other hand, if you see this in the terminal:
 ```
 -bash: /usr/bin/composer: No such file or directory
 ```
-In this case you need to perform the composer installation step.
+it means composer is not installed and you need to proceed with **Step 1** of this tutorial.
 
-# How to install composer globally.
+# Step 1 - How to install or upgrade composer globally.
 > **NOTE:** Windows users need to login to WSL in order to execute terminal commands. Click [**here**](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/WSL.md#opening-linux-terminal) to see how.
 
 Windows WSL users
-* Open the terminal and execute this command:
+* Open the terminal and execute this commands:
 ```
-sudo apt-get install composer
+sudo apt-get install curl
 ```
+```
+sudo curl -s https://getcomposer.org/installer | php
+```
+```
+sudo mv composer.phar /usr/local/bin/composer
+```
+> **NOTE:** You need to logout and login to your WSL after this procedure by executing "logout" and logging back to the WSL.
 Mac users
 * Open the terminal and execute this command:
 ```
 brew install composer
 ```
-The command above will install composer globally.
+> The commands above will install composer globally.
 
-# Install Behat.
+# Step 2 - Install Behat.
 * To install Behat, open the terminal, go to the folder of your newly cloned project and execute this command:
 ```
 composer install
