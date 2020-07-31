@@ -14,6 +14,7 @@ ssh-keygen
 ```
 Folow the onscreen instructions. 
 > **NOTE:** Do not add passphrase to the key, just press enter twice when asked for passphrase. 
+
 After the process is finished add your ssh identity by executing this commands:
 ```
 eval $(ssh-agent)
