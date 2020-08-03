@@ -14,6 +14,6 @@ How to setup WSL and install Ubuntu Linux -> [click here](https://github.com/pla
 # How to setup Behat.
 * Install via Composer -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
 * Config Behat for your project -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/CONFIG.md).
-* Add test files -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
+* Add test files -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/files/README.md).
 * Add additional steps -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
 * Create feature with steps -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
