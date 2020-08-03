@@ -29,4 +29,20 @@ ChromeDriver was started successfully.
 ```
 > **NOTE:** Please observe the port number which chromedriver is using, because it is used in the Behat config. Before you start running tests, first you need to start chromedriver!
 ## Mac users:
-
+* Once you download ChromeDriver, extract the archive contents to a folder. 
+* Go to that folder via the Terminal and execute this:
+```
+sudo mv -f chromedriver /usr/local/share/chromedriver
+```
+then this
+```
+sudo ln -s /usr/local/share/chromedriver /usr/local/bin/chromedriver
+```
+* To check if everything is OK, open a terminal anywhere you want and type: **chromedriver**, you should get the folowing something similiar:
+```
+Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 9515
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+```
+> **NOTE:** Please observe the port number which chromedriver is using, because it is used in the Behat config. Before you start running tests, first you need to start chromedriver!
