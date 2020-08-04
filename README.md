@@ -11,7 +11,7 @@ How to setup WSL and install Ubuntu Linux in Windows -> [click here](https://git
 * Repository setup -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/REPOSITORY.md).  
 * ChromeDriver Installation -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/CHROMEDRIVER.md).
 
-# How to setup Behat.
+# How to setup Behat:
 * Install via Composer -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/COMPOSER.md).
 * Config Behat for your project -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/CONFIG.md).
 * Add test files -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/files/README.md).
