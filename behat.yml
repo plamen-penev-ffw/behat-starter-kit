@@ -31,4 +31,4 @@ default:
         - Drupal\DrupalExtension\Context\DrushContext:
         - Contexts\FeatureContext:
 imports:
-  - worldvision.yml
+  - PROJECT_NAME.yml
