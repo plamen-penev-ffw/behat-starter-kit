@@ -17,7 +17,7 @@ PHP 7.3.20-1+ubuntu16.04.1+deb.sury.org+1 (cli) (built: Jul  9 2020 16:33:48) ( 
 it means you have PHP version 7.3 installed and there is no need to install PHP. If the version is greater than 7.3 that is OK. You can proceed with checking the extensions for PHP by reading **Step 2** of this tutorial.  
 If the version is bellow 7.3 proceed with **Step 1** of this tutorial to upgrade PHP to the needed version. 
 
-In other hand, if you see this in the terminal:
+On the other hand, if you see this in the terminal:
 ```
 The program 'php' can be found in the following packages:
 ```
