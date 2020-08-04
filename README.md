@@ -2,7 +2,7 @@
 This repo contains barebone Behat installation that can be used as standalone testing platform for the sole purpose of a single project. Below you can find information how to setup and configure all the needed things in order to get a separate Behat instance up and running.
 
 # Windows users read this first
-How to setup WSL and install Ubuntu Linux -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/WSL.md)
+How to setup WSL and install Ubuntu Linux in Windows -> [click here](https://github.com/plamen-penev-ffw/behat-starter-kit/blob/master/WSL.md)
 
 # Check list of procedures that need to be completed in order to run Behat:
 
