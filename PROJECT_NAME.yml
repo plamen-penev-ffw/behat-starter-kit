@@ -2,7 +2,7 @@ PROJECT_NAME:
   extensions:
     Behat\MinkExtension:
       ## base_url is set on runtime using the following code:
-      ## BEHAT_PARAMS='{"extensions":{"Behat\\MinkExtension":{"base_url":"http://local.worldvision.com"}}}' bin/behat -p worldvision features/WorldVision/Architecture > logs/test.log
+      ## BEHAT_PARAMS='{"extensions":{"Behat\\MinkExtension":{"base_url":"http://local.worldvision.com"}}}' bin/behat -p worldvision features/WorldVision/Example > logs/test.log
       ## The return code can be checked with "echo $?". It will return 0 if all tests were successful.
       files_path: "%paths.base%/files/"
       browser_name: "chrome"
