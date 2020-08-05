@@ -12,6 +12,8 @@
 		"behat/mink-extension": "2.3.1",
 		"drupal/drupal-extension": "*",
 		"twig/twig": "*",
+		"bex/behat-screenshot": "*",
+		"kolev/multilingual-extension": "dev-master",
 		"guzzlehttp/guzzle": "*",
 		"dmore/behat-chrome-extension": "^1.2.0",
 		"emuse/behat-html-formatter": "*",
