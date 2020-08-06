@@ -23,7 +23,8 @@
 		"phpunit/phpunit": "^6"
 	},
 	"config": {
-		"bin-dir": "bin/"
+		"bin-dir": "bin/",
+		"sort-packages": true
 	},
 	"autoload-dev": {
 		"psr-4": {

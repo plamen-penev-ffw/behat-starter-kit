@@ -776,7 +776,7 @@
         },
         {
             "name": "drupal/core-render",
-            "version": "8.9.2",
+            "version": "8.9.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-render.git",
@@ -811,16 +811,16 @@
         },
         {
             "name": "drupal/core-utility",
-            "version": "8.9.2",
+            "version": "8.9.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-utility.git",
-                "reference": "9bc9b3f7201c05ac809c7ca5748017ccce1018d5"
+                "reference": "a05e8370c2733f88241604334de2ee9b975fca41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-utility/zipball/9bc9b3f7201c05ac809c7ca5748017ccce1018d5",
-                "reference": "9bc9b3f7201c05ac809c7ca5748017ccce1018d5",
+                "url": "https://api.github.com/repos/drupal/core-utility/zipball/a05e8370c2733f88241604334de2ee9b975fca41",
+                "reference": "a05e8370c2733f88241604334de2ee9b975fca41",
                 "shasum": ""
             },
             "require": {
@@ -842,7 +842,7 @@
             "keywords": [
                 "drupal"
             ],
-            "time": "2020-06-22T08:29:59+00:00"
+            "time": "2020-08-03T09:01:59+00:00"
         },
         {
             "name": "drupal/drupal-driver",
@@ -3466,16 +3466,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v2.13.0",
+            "version": "v2.13.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "46a612ba1bbf6ee1c58acabacd868212ff8a2911"
+                "reference": "57e96259776ddcacf1814885fc3950460c8e18ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/46a612ba1bbf6ee1c58acabacd868212ff8a2911",
-                "reference": "46a612ba1bbf6ee1c58acabacd868212ff8a2911",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/57e96259776ddcacf1814885fc3950460c8e18ef",
+                "reference": "57e96259776ddcacf1814885fc3950460c8e18ef",
                 "shasum": ""
             },
             "require": {
@@ -3529,18 +3529,6 @@
             ],
             "funding": [
                 {
-                    "url": "https://certification.symfony.com/",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://live.symfony.com/",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://symfony.com/cloud/",
-                    "type": "custom"
-                },
-                {
                     "url": "https://github.com/fabpot",
                     "type": "github"
                 },
@@ -3549,7 +3537,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2020-07-05T13:08:05+00:00"
+            "time": "2020-08-05T15:09:04+00:00"
         }
     ],
     "packages-dev": [
