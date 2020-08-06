@@ -17,8 +17,7 @@
 		"guzzlehttp/guzzle": "*",
 		"dmore/behat-chrome-extension": "^1.2.0",
 		"emuse/behat-html-formatter": "*",
-		"joshtronic/php-loremipsum": "dev-master",
-		"hirak/prestissimo": "^0.3.10"
+		"joshtronic/php-loremipsum": "dev-master"
 	},
     "require-dev": {
 		"phpunit/phpunit": "^6"
