@@ -30,7 +30,7 @@ PROJECT_NAME:
     default:
       Contexts:
         - FeatureContext:
-            - username: "bht@example.com"
-              password: "!@QW12qw"
+            - username: "user@example.com"
+              password: "123456789"
               json_file_path: "json-files/temp.json"
         - Project_NameContext:
